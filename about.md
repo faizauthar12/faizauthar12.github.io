@@ -1,5 +1,7 @@
 ---
 layout: article
+aside:
+  toc: true
 titles:
   # @start locale config
   en      : &EN       About
@@ -26,49 +28,24 @@ titles:
 key: page-about
 ---
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
+# Who am i?
+Hi, my name is Muhammad Alfaiz Khisma Authar, and I'm a student.
+I live in East Jakarta.
+I'm a tech enthusiast, my father was introduced me about computer when he bring his PC from office. I'm so excited with what my father did with this PC.
+He is doing his job in front of me and I'm amazed with his works on Autocad.
+It made me want to learn about technology.
 
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
+## Who is faizauthar12?
+On the web and my close friend, I'm also known as "faizauthar12", I have been using this identity since long time ago.
+I was creating an account for playing a games, the website needs to include numeral stuff on my username, so that i decided to use "faizauthar12" as my username, since then I'm using it for all of my account.
 
-```javascript
-(() => console.log('Hello, World!'))();
-```
+I have a few of social media such as [Twitter](https://twitter.com/faizauthar12), [Telegram](http://t.me/faizauthar12),  and [Instagram](https://www.instagram.com/faizauthar12/).
+I'm also known as Recognized Developer / Contribur on [XDA-Developers](https://forum.xda-developers.com/member.php?u=5689422).
+I have been contributed well since 2015.
 
-## Features
-
-- Responsive
-- Semantic HTML
-- Skins
-- Highlight Theme
-- Internationalization
-- Search
-- Table of contents
-- Authors
-- Additional styles (alert, tag, image, icon, button, grid, etc)
-- Extensions (audios, videos, slides, demos)
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
-
-## Skins
-
-TeXt has 6 built-in skins, you can also set up your own skin.
-
-| `default` | `dark` | `forest` |
-| --- |  --- | --- |
-| ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
-
-| `ocean` | `chocolate` | `orange` |
-| --- |  --- | --- |
-| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg) |
-
-### Highlight Theme
-
-TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
-
-| `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
-| --- |  --- | --- | --- |  --- |
-| ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png) |
+## When I start doing this?
+back then in 2013, i got my first handheld device it is [Samsung Galaxy Fame](https://www.gsmarena.com/samsung_galaxy_fame_s6810-5279.php). It has 3,5" display, 512MB RAM, 1300mAh.
+It runs android Jeally Beans with TouchWhiz skin on top of it.
+Samsung load lots of bloatware, I can't do a multitasking stuff with it.
+I'm trying to open as much as apps it can run, unfortunately the last apps will be killed shortly after i open a new app.
+I find out there is way to fix this problem by custom, tweaking, and also mod the system.
