@@ -29,10 +29,9 @@ key: page-about
 ---
 
 # Who am i?
-Hi, my name is Muhammad Alfaiz Khisma Authar, and I'm a student.
-I live in East Jakarta.
-I'm a tech enthusiast, my father was introduced me about computer when he bring his PC from office. I'm so excited with what my father did with this PC.
-He is doing his job in front of me and I'm amazed with his works on Autocad.
+Hi, my name is Muhammad Alfaiz Khisma Authar, a student live in East Jakarta.
+I’m a tech enthusiast, my dad introduced me things about computer when he brought a PC from his office.
+I’m so excited by what my dad did on this PC. He was doing his job in front of me and I’m amazed with his works on Autocad.
 It made me want to learn about technology.
 
 ## Who is faizauthar12?
