@@ -12,7 +12,12 @@
 ---
 ![Ilmu Sosial Dasar](/assets/images/Posts/2019-09-29-Ilmu-Sosial-Dasar-1/ISD-1-1.jpg){:.border.rounded.center-image :width="512px" height="512px"}
 
-#  Pengertian dan Tujuan Ilmu Sosial Dasar
+# A. Tujuan MKDU
+Tujuan dari Mata Kuliah Dasar Umum (MKDU) adalah usaha untuk mengembangkan kepribadian mahasiswa agar mampu berperan sebagai anggota  masyarakat dan bangsa serta agama. 
+Menciptakan kepekaan mahasiswa terhadap masalah dan kenyataan sosial yang ada di kehidupan sehari-hari. 
+Memberikan pengetahuan dasar kepada mahasiswa agar mampu berpikir secara interdisipliner, dan mampu memahami pikiran para ahli berbagai ilmu pengetahuan, sehingga dengan demikian memudahkan mahasiswa berkomunikasi.
+
+# B. Pengertian dan Tujuan Ilmu Sosial Dasar
 ## Pengertian Ilmu Sosial Dasar
 Ilmu sosial mencakup banyak aspek dalam kehidupan, mulai dari sifat seseorang(individu), interaksi antar individu, individu dengan kelompok dan interaksi antar kelompok
 
@@ -40,14 +45,14 @@ Pelajaran Ilmu Sosial Dasar dapat dibedakan atas tiga golongan yaitu :
 2. Konsep-konsep sosial atau pengertian-pengertian tentang  kenyataan-kenyataan sosial dibatasi pada konsep dasar atau elementer saja  yang sangat diperlukan untuk mempelajari masalah-masalah sosial yang dibahas dalam Ilmu Pengetahuan Sosial.
 3. Masalah-masalah sosial yang timbul dalam masyarakat, biasanya terlibat  dalam berbagai kenyataan-kenyataan sosial yang antara satu dengan lainnya  saling berkaitan.
 
-# Pengertian dan Tujuan Ilmu Pengetahuan Sosial
+# C. Pengertian dan Tujuan Ilmu Pengetahuan Sosial
 ## Pengertian IPS
 Ilmu Pengetahuan Sosial merupakan bahan ajar yang dirangkum dari berbagai macam keterampilan yang didesain sebagai bahan ajar untuk jenjang sekolah dasar hingga sekolah menengah akhir. Ilmu Pengetahuan Sosial merupakan penyerderhanaan, adaptasi, seleksi dan modifikasi yang diorganisasikan dari konsep-konsep dan keterampilan-keterampilan sejarah, geografi, sosiologi, antropologi, dan ekonomi.
 
 ## Tujuan IPS
 Ilmu Pengetahuan Sosial bertujuan untuk membangun karakter (good citizenship) , pengetahuan (knowledge), keterampilan, sikap, dan nilai peserta didik yang baik. Tujuan pendidikan IPS menurut Gross dalam Al Muchtar (2001) adalah mempersiapkan peserta didik menjadi warga negara yang baik dalam masyarakat yang demokratis.
 
-# ISD dan IPS
+# D. ISD dan IPS
 Ilmu Sosial Dasar dan Ilmu Pengetahuan Sosial mempunyai kesamaan maupun  perbedaan satu sama lain.
 
 ## Perbedaan ISD dan IPS
