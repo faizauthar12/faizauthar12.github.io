@@ -67,3 +67,8 @@ Setiap anggota keluarga, pada dasarnya, saling melakukan kontrol atau pengawasan
 7. Fungsi pemberian status
 Melalui perkawinan, seorang akan mendapatkan status atau kedudukan yang baru di masyarakat, yaitu sebagai suami atau istri. Secara otomatis, ia akan diperlakukan sebagai orang yang telah dewasa dan mampu bertanggung jawab kepada diri, keluarga, anak-anak, dan masyarakatnya.
 
+# Referensi
+1. [kharistyhasanah](http://kharistyhasanah.blogspot.com/2010/10/pengertian-masyarakat.html)
+2. [gitaasaputri](https://gitaasaputri.wordpress.com/2013/12/12/pengertian-individu/)
+3. [bangbiw](https://bangbiw.com/penjelasan-tentang-individu-keluarga-dan-masyarakat/)
+4. [erlangga.co.id](https://erlangga.co.id/materi-belajar/smp/8894-fungsi-keluarga.html)
