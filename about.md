@@ -27,24 +27,24 @@ titles:
   # @end locale config
 key: page-about
 ---
+# Siapa saya?
+Haloo, nama saya Muhammad Alfaiz Khisma Authar, seorang pelajar yang tinggal di Jakarta Timur. 
+Saya adalah seorang penggemar teknologi, Ayah saya mengenalkan saya kepada komputer ketika beliau membawa komputer kantornya kerumah dan mengerjakan pekerjaannya di hadapan saya. 
+Saya sangat bersemangat ketika Ayah saya melakukan pekerjaannya dengan komputer, hal tersebut menarik perhatian saya untuk belajar lebih dalam tentang komputer.
 
-# Who am i?
-Hi, my name is Muhammad Alfaiz Khisma Authar, a student live in East Jakarta.
-I’m a tech enthusiast, my dad introduced me things about computer when he brought a PC from his office.
-I’m so excited by what my dad did on this PC. He was doing his job in front of me and I’m amazed with his works on Autocad.
-It made me want to learn about technology.
 
-## Who is faizauthar12?
-On the web and my close friend, I'm also known as "faizauthar12", I have been using this identity since long time ago.
-I was creating an account for playing a games, the website needs to include numeral stuff on my username, so that i decided to use "faizauthar12" as my username, since then I'm using it for all of my account.
+# Siapa faizauthar12?
+"faizauthar12" adalah identitas yang saya gunakan di internet, saya sudah menggunakan identitas ini sangat lama. 
+Saya menggunakan identitas ini ketika saya sedang membuat sebuah akun game yang mengharuskan saya menambahkan sebuah angka pada username saya, sehingga saya memilih "12" sebagai akhir dari username saya.
 
-I have a few of social media such as [Twitter](https://twitter.com/faizauthar12), [Telegram](http://t.me/faizauthar12),  and [Instagram](https://www.instagram.com/faizauthar12/).
-I'm also known as Recognized Developer / Contribur on [XDA-Developers](https://forum.xda-developers.com/member.php?u=5689422).
-I have been contributed well since 2015.
+Saya memiliki banyak sosial media seperti [Twitter](https://twitter.com/faizauthar12), [Telegram](http://t.me/faizauthar12), dan [Instagram](https://www.instagram.com/faizauthar12/). 
+Saya juga dikenal sebagai Recognized Developer / Contribur di [XDA-Developers](https://forum.xda-developers.com/member.php?u=5689422). 
+Saya sudah berkontribusi sejak 2015.
 
-## When I start doing this?
-back then in 2013, i got my first handheld device it is [Samsung Galaxy Fame](https://www.gsmarena.com/samsung_galaxy_fame_s6810-5279.php). It has 3,5" display, 512MB RAM, 1300mAh.
-It runs android Jeally Beans with TouchWhiz skin on top of it.
-Samsung load lots of bloatware, I can't do a multitasking stuff with it.
-I'm trying to open as much as apps it can run, unfortunately the last apps will be killed shortly after i open a new app.
-I find out there is way to fix this problem by custom, tweaking, and also mod the system.
+# Kapan saya melakukan ini?
+Saya pertama kali melakukan hal ini pada tahu  2013, saya mendapatkan Smartphone pertama saya yaitu [Samsung Galaxy Fame](https://www.gsmarena.com/samsung_galaxy_fame_s6810-5279.php).
+Smartphone ini memiliki layar 3,5", 512 MB RAM, 1300mAh. Smartphone ini menjalankan Android Jeally Bean 4.1.2 dengan *UI* khas dari Samsung, yaitu *TouchWhiz*. 
+Seperti biasa, Samsung memaketkan banyak sekali aplikasi yang tidak berguna yang membuat Smartphone ini menjadi lamban.
+Saya tidak bisa melakukan *multitasking*.
+Ketika saya mencoba membuka 2 aplikasi, pasti aplikasi yang saya pakai pertama berhenti.
+Saya menemukan cara untuk memperbaikinya dengan melakukan perubahan terhadap Sistem Operasinya dan melakukan beberapa *tweaking*.
