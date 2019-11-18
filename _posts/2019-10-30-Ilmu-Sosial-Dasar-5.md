@@ -11,7 +11,7 @@
   show_author_profile : true
 ---
 
-![Pelapisan Sosial](/assets/images/Posts/2019-10-30-Ilmu-Sosial-Dasar-5/ISD-5-1.jpg){:.border.center-image :width="256px" height="256px"}
+![Pelapisan Sosial](/assets/images/Posts/2019-10-30-Ilmu-Sosial-Dasar-5/ISD-5-1.png){:.border.center-image :width="256px" height="256px"}
 
 # A. Pengertian Statifikasi
 Stratifikasi sosial menurut Pitirim Sorokin adalah perbedaan penduduk atau masyarakat ke dalam lapisan-lapisan kelas secara bertingkat (hirarkis).
