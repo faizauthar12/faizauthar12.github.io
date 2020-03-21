@@ -2,7 +2,7 @@
   layout              : article
   aside               :
     toc               : true
-  title               : Hubungan Ilmu Budaya Dasar dalam kesustraan
+  title               : Konsep Hubungan Ilmu Budaya Dasar dalam kesustraan
   tags                : 
     - Gunadarma
     - Ilmu Budaya Dasar
